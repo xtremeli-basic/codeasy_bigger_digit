@@ -1,0 +1,22 @@
+{
+  "name": "codeeasybiggerdigit",
+  "version": "1.0.0",
+  "description": "This is the solution to codeeasy's bigger digit problem",
+  "main": "codeEasy.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xtremeli-basic/codeeasy_bigger_digit.git"
+  },
+  "keywords": [
+    "javascript"
+  ],
+  "author": "Amanda Obiajulu Nwadukwe",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xtremeli-basic/codeeasy_bigger_digit/issues"
+  },
+  "homepage": "https://github.com/xtremeli-basic/codeeasy_bigger_digit#readme"
+}
